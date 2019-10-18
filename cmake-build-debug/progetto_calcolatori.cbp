@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="progetto_calcolatori"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="progetto_calcolatori">
+				<Option output="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/progetto_calcolatori" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 progetto_calcolatori"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="progetto_calcolatori/fast">
+				<Option output="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/progetto_calcolatori" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 progetto_calcolatori/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/main.c">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/scheduler/Scheduler.c">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/scheduler/Scheduler.h">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/strutture/lista_istruzione.c">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/strutture/lista_istruzione.h">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/strutture/lista_task.c">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/strutture/lista_task.h">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/FCFS.c">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/FCFS.h">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/lettura_terminale.c">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/lettura_terminale.h">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/round_robin.c">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/round_robin.h">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/scrittura_file.c">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/scrittura_file.h">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/struttura_thread.c">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/utility/struttura_thread.h">
+			<Option target="progetto_calcolatori"/>
+		</Unit>
+		<Unit filename="/home/matteo/progetto_calcolatori-20180902T195643Z-001/progetto_calcolatori/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
