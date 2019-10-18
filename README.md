@@ -70,5 +70,5 @@ ANALISI PRESTAZIONALE
 Il programma è stato scritto e testato su sistema Linux Ubuntu 18.04 LTS dotato del seguente
 hardware:
 Intel core i3-4005U , dual-core , 1.7 GHz
-![Screenshot](Cattura.png)
+![Screenshot](Cattura.PNG)
 La velocità d'esecuzione soddisfa i canoni imposti ( 180 secondi massimo).
